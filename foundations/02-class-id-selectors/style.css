@@ -1,0 +1,20 @@
+.odd {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: lightpink;
+}
+
+#id {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.odd.cooler {
+    font-size: 24px;
+}
+
+#id-another{
+    color: black;
+    font-size: 22px;
+    background-color: lightgreen;
+    font-weight: bold;
+}
